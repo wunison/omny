@@ -119,3 +119,10 @@ Omny doesn't collect telemetry or send your data anywhere except the AI
 provider you've explicitly configured, for the specific message you send.
 Your conversations, documents, and project data live in a local database on
 your own machine.
+
+## License
+
+Omny is proprietary software, **free for personal use** with your own AI
+provider API key (BYOK — Bring Your Own Key). Copying, modifying, reverse
+engineering, or redistributing it is not permitted. See
+[`LICENSE`](LICENSE) for the full terms.

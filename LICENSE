@@ -1,21 +1,59 @@
-MIT License
+Omny — End User License Agreement (EULA)
 
-Copyright (c) 2026 Wunison
+Copyright (c) 2026 Wunison. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Omny is proprietary software. It is NOT open-source. No license to the
+source code is granted by this file or by distributing compiled binaries
+of the Software.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Grant of use
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+   Wunison grants you a free, personal, non-exclusive, non-transferable
+   license to install and use the compiled Omny application and its
+   editor extension ("the Software") for your own personal or internal
+   use, including connecting it to third-party AI providers using your
+   own API keys ("Bring Your Own Key" / BYOK).
+
+2. Restrictions
+
+   Without prior written permission from Wunison, you may NOT:
+   - copy, modify, reverse-engineer, decompile, or disassemble the
+     Software, except to the extent such restriction is prohibited by
+     applicable law;
+   - redistribute, resell, sublicense, rent, lease, or otherwise make the
+     Software (or any modified version of it) available to third parties,
+     whether for a fee or free of charge;
+   - remove or alter any copyright, trademark, or attribution notice
+     contained in the Software.
+
+3. No warranty
+
+   The Software is provided "AS IS", without warranty of any kind, express
+   or implied, including but not limited to warranties of merchantability,
+   fitness for a particular purpose, and non-infringement. In no event
+   shall Wunison be liable for any claim, damages, or other liability
+   arising from, out of, or in connection with the Software or its use.
+
+4. Your data
+
+   Omny stores your data (conversations, documents, project data) locally,
+   in a database on your own machine. Wunison does not collect telemetry
+   and does not have access to your data. Any request you send to an AI
+   provider is sent directly using the API key you configured, subject to
+   that provider's own terms and privacy policy.
+
+5. Changes to these terms
+
+   Wunison may update these terms for future releases of the Software.
+   Continuing to use a new release after such an update constitutes
+   acceptance of the updated terms for that release. Your right to use a
+   version you already installed, under the terms in effect when you
+   installed it, is not revoked by a later change.
+
+6. Termination
+
+   This license terminates automatically if you breach any of its terms.
+   Upon termination, you must stop using the Software and delete all
+   copies of it in your possession.
+
+Contact: https://github.com/wunison/omny
